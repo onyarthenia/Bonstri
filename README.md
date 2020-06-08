@@ -4,4 +4,4 @@ $ Git clone https://github.com/onyarthenia/Bonstri
 
 $ Cd
 $ Cd Bonstri
-$ Php gas.php
+$ Php me.php
